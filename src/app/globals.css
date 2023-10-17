@@ -16,3 +16,21 @@ a {
   text-decoration: none;
 }
 
+h1{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+  margin-left:20px;
+  padding-bottom: 45px;
+}
+
+header nav{
+  color: gray;
+  display:flex;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  gap:20px;
+  justify-content: flex-end;
+  margin: 20px;
+  
+}
+

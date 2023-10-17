@@ -1,0 +1,30 @@
+.WeatherCardWrapper{
+    border: 10px gray;
+    border-radius: 5%;
+    border-style:dashed;
+    display:flex; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    margin-left:20px;
+    margin-right:20px;
+    
+}
+
+.WeatherCardImg{
+    flex:50%;
+    height:auto;
+    width:100px;
+
+}
+
+.WeatherCardImg svg{
+    height:auto;
+    width:75%;
+}
+
+.WeatherCardInner{
+    flex: 50%;
+    font-size:25px;
+    padding:50px;
+   
+}
