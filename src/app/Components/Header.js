@@ -5,7 +5,7 @@ const Header = () => (
             <Link href="/Tokyo">Tokyo</Link>
             <Link href="/Mexico City">Mexico City</Link>
             <Link href="/Nairobi">Nairobi</Link>
-            <Link href="/Buenos Aires">Buenos Aires</Link>
+            <Link href="/Fairbanks">Fairbanks</Link>
         </nav>
     </header>
 );

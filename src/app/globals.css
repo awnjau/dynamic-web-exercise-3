@@ -31,6 +31,7 @@ header nav{
   gap:20px;
   justify-content: flex-end;
   margin: 20px;
+  text-decoration: underline;
   
 }
 
